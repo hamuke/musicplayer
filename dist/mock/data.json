@@ -1,0 +1,154 @@
+[{
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "野狼Disco",
+        "album": "野狼Disco",
+        "singer": "宝石Gem",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.webp",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "爱要坦荡荡",
+        "album": "Beautiful Angel",
+        "singer": "萧潇",
+        "duration": 238,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_4.webp",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "B612",
+        "album": "月全蚀",
+        "singer": "雷雨心",
+        "duration": 207,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "我爱你",
+        "album": "我爱你",
+        "singer": "程佳佳",
+        "duration": 206,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_6.jpg",
+        "audioSrc": "../source/song_6.mp3",
+        "name": "不值得",
+        "album": "梦飞船航行记录2",
+        "singer": "梦飞船",
+        "duration": 275,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_7.webp",
+        "audioSrc": "../source/song_7.mp3",
+        "name": "99",
+        "album": "99",
+        "singer": "MOB CHOIR",
+        "duration": 237,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_3.webp",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "爱要坦荡荡",
+        "album": "Beautiful Angel",
+        "singer": "萧潇",
+        "duration": 238,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_4.webp",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "B612",
+        "album": "月全蚀",
+        "singer": "雷雨心",
+        "duration": 207,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "我爱你",
+        "album": "我爱你",
+        "singer": "程佳佳",
+        "duration": 206,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_7.webp",
+        "audioSrc": "../source/song_7.mp3",
+        "name": "99",
+        "album": "99",
+        "singer": "MOB CHOIR",
+        "duration": 237,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_3.webp",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "爱要坦荡荡",
+        "album": "Beautiful Angel",
+        "singer": "萧潇",
+        "duration": 238,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_4.webp",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "B612",
+        "album": "月全蚀",
+        "singer": "雷雨心",
+        "duration": 207,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "我爱你",
+        "album": "我爱你",
+        "singer": "程佳佳",
+        "duration": 206,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_7.webp",
+        "audioSrc": "../source/song_7.mp3",
+        "name": "99",
+        "album": "99",
+        "singer": "MOB CHOIR",
+        "duration": 237,
+        "isLike": true
+    }
+]
